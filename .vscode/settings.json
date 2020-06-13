@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "limits": "c",
+        "*.tcc": "c",
+        "cstdlib": "c"
+    }
+}
