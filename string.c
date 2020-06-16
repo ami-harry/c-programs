@@ -62,27 +62,45 @@
 // return times;
 // // }
 
+
+
+
+
+
+
+
 #include <stdio.h>
-int length_of_string(char[]);
+// int length_of_string(char[]);
+// int main()
+// {
+    // char string[30];
+    // int length = 0;
+    // printf("enter the string\n");
+    // gets(string);
+    // length = length_of_string(string);
+    // printf("the length of the string is %d\n", length);
+// 
+    // return 0;
+// }
+// 
+// int length_of_string(char ch[])
+// {
+    // int i = 0, x = 0;
+    // while (ch[i] != '\0')
+    // {
+        // x++;
+        // i++;
+    // }
+    // return x;
+// }
+// 
+
+#include<stdio.h>
 int main()
 {
-    char string[30];
-    int length = 0;
-    printf("enter the string\n");
-    gets(string);
-    length = length_of_string(string);
-    printf("the length of the string is %d\n", length);
-
-    return 0;
+    printf("");
+    scanf("");
+ 
+   return 0;
 }
 
-int length_of_string(char ch[])
-{
-    int i = 0, x = 0;
-    while (ch[i] != '\0')
-    {
-        x++;
-        i++;
-    }
-    return x;
-}
